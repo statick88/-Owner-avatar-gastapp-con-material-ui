@@ -1,0 +1,21 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.insufficient {
+  background-color: #FFC0CB;
+  /* Fondo en rosa para salario insuficiente */
+}
+
+.sufficient {
+  background-color: #90EE90;
+  /* Fondo en verde para salario suficiente */
+}
+
+.break-even {
+  background-color: #FFFF00;
+  /* Fondo en amarillo para salario justo */
+}
